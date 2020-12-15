@@ -15,6 +15,7 @@ const Footer = () => {
         </Form>
       </FooterSubscription>
       <FooterLinksContainer>
+
         <FooterLinksWrapper>
           <FooterLinkItems>
             <FooterLinkTitle>Aboout Us</FooterLinkTitle>
@@ -24,7 +25,6 @@ const Footer = () => {
             <FooterLink to="/">Investors</FooterLink>
             <FooterLink to="/">Terms of Service</FooterLink>
           </FooterLinkItems>
-
           <FooterLinkItems>
             <FooterLinkTitle>Contact Us</FooterLinkTitle>
             <FooterLink to="/sign-up">How itworks</FooterLink>
@@ -33,7 +33,9 @@ const Footer = () => {
             <FooterLink to="/">Investors</FooterLink>
             <FooterLink to="/">Terms of Service</FooterLink>
           </FooterLinkItems>
+        </FooterLinksWrapper>
 
+        <FooterLinksWrapper>
           <FooterLinkItems>
             <FooterLinkTitle>Videos</FooterLinkTitle>
             <FooterLink to="/sign-up">How itworks</FooterLink>
@@ -42,7 +44,6 @@ const Footer = () => {
             <FooterLink to="/">Investors</FooterLink>
             <FooterLink to="/">Terms of Service</FooterLink>
           </FooterLinkItems>
-
           <FooterLinkItems>
             <FooterLinkTitle>Social Media</FooterLinkTitle>
             <FooterLink to="/sign-up">How itworks</FooterLink>
@@ -52,13 +53,14 @@ const Footer = () => {
             <FooterLink to="/">Terms of Service</FooterLink>
           </FooterLinkItems>
         </FooterLinksWrapper>
+
       </FooterLinksContainer>
       <SocialMedia>
         <SocialMediaWrap>
           <SocialLogo to="/">
             <SocialIcon/>
             ULTRA
-          </SocialLogo>
+          </SocialLogo>          
           <WebsiteRights>ULTRA © 2020</WebsiteRights>
           <SocialIcons>
             <SocialIconLink href="/" targer="_blank" arial-label="Facebook">
