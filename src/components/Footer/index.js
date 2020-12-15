@@ -27,30 +27,28 @@ const Footer = () => {
           </FooterLinkItems>
           <FooterLinkItems>
             <FooterLinkTitle>Contact Us</FooterLinkTitle>
-            <FooterLink to="/sign-up">How itworks</FooterLink>
-            <FooterLink to="/">Testimonials</FooterLink>
-            <FooterLink to="/">Carrers</FooterLink>
-            <FooterLink to="/">Investors</FooterLink>
-            <FooterLink to="/">Terms of Service</FooterLink>
+            <FooterLink to="/sign-up">Contact</FooterLink>
+            <FooterLink to="/">Support</FooterLink>
+            <FooterLink to="/">Destinations</FooterLink>
+            <FooterLink to="/">Sponsorships</FooterLink>
           </FooterLinkItems>
         </FooterLinksWrapper>
 
         <FooterLinksWrapper>
           <FooterLinkItems>
             <FooterLinkTitle>Videos</FooterLinkTitle>
-            <FooterLink to="/sign-up">How itworks</FooterLink>
-            <FooterLink to="/">Testimonials</FooterLink>
-            <FooterLink to="/">Carrers</FooterLink>
-            <FooterLink to="/">Investors</FooterLink>
-            <FooterLink to="/">Terms of Service</FooterLink>
+            <FooterLink to="/sign-up">Submit Video</FooterLink>
+            <FooterLink to="/">Ambassadors</FooterLink>
+            <FooterLink to="/">Agency</FooterLink>
+            <FooterLink to="/">Influencer</FooterLink>
           </FooterLinkItems>
           <FooterLinkItems>
             <FooterLinkTitle>Social Media</FooterLinkTitle>
-            <FooterLink to="/sign-up">How itworks</FooterLink>
-            <FooterLink to="/">Testimonials</FooterLink>
-            <FooterLink to="/">Carrers</FooterLink>
-            <FooterLink to="/">Investors</FooterLink>
-            <FooterLink to="/">Terms of Service</FooterLink>
+            <FooterLink to="/">Instagran</FooterLink>
+            <FooterLink to="/">Facebook</FooterLink>
+            <FooterLink to="/">YouTube</FooterLink>
+            <FooterLink to="/">Twitter</FooterLink>
+            <FooterLink to="/">LinkedIn</FooterLink>
           </FooterLinkItems>
         </FooterLinksWrapper>
 
